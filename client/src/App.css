@@ -41,3 +41,13 @@ img {
 .align-time {
   position: relative;
 }
+
+.react-datepicker__time-list {
+  padding: 0px 0px !important;
+  text-align: left !important;
+  margin-right: 40px !important;
+}
+
+.react-datepicker__time-box {
+  width: 110% !important;
+}
